@@ -1,0 +1,1 @@
+Este proyecto es el resultado de la implementación de los proyectos 1, 2 y 3 en secuencia. Los enunciados de los tres proyectos se encuentran en los archivos Proyecto1-BD2016.pdf, Proyecto2-BD2016.pdf y Proyecto3-BD2016.pdf.
